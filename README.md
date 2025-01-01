@@ -1,6 +1,6 @@
 # 🍏 Apple Homepage Clone
 
-This project is a static replica of the Apple homepage, <br> built using HTML and CSS. The goal was to recreate the visual layout and design elements of the original site, showcasing my skills in web design and front-end development.
+This project is a static replica of the Apple homepage, <br> built using HTML and CSS. The goal was to recreate the visual layout and design elements of the original site, <br>showcasing my skills in web design and front-end development.
 
 ## ✨ Features
 Responsive Design: The layout is designed to adapt to different screen sizes, mimicking the Apple homepage's responsiveness.<br>
