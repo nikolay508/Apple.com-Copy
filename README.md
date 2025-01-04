@@ -16,4 +16,7 @@ CSS3
 Mastered layout techniques using Flexbox and Grid to achieve responsive and organized sections.<br>
 Focused on semantic HTML and CSS styling to ensure clean, readable, and maintainable code.
 
-This project serves as a demonstration of my ability to replicate complex designs with pure HTML and CSS while following modern web development practices.
+This project serves as a demonstration of my ability to replicate complex designs with pure HTML and CSS while following modern web development practices.<hr>
+
+Here is a brief example of how it is:<br>
+<img width="1470" alt="Screenshot 2025-01-04 at 16 09 39" src="https://github.com/user-attachments/assets/f432afc1-5033-4d5b-8630-fb360a442266" />
